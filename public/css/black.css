@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.black-head{
+    margin-top: 100px;
+    margin-left: 50px;
+    
+}
+
+.black-head .head{
+    color: green;
+}
+
+.broch-img{
+    margin-left: 350px;
+    width: 30%;
+    height: 50%;
+    margin-top: 20px;
+}
+
+.black-des{
+    margin-left: 30px;
+}
+.strains-black{
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.strains-black .main-st{
+    text-align: center;
+    font-family: 'lato', sans-serif;
+}
+.des-sub{
+    font-family: 'lato', sans-serif;
+}
+
+.ser-ins{
+    margin-top: 10px;
+    text-transform: capitalize;
+    font-family: 'lato', sans-serif;
+}
+
